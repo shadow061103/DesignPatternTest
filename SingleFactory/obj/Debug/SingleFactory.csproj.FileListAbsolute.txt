@@ -1,0 +1,6 @@
+D:\Project\VisualStudio開發專案\DesignPatternDemo\SingleFactory\bin\Debug\SingleFactory.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternDemo\SingleFactory\bin\Debug\SingleFactory.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\SingleFactory\bin\Debug\SingleFactory.pdb
+D:\Project\VisualStudio開發專案\DesignPatternDemo\SingleFactory\obj\Debug\SingleFactory.csprojResolveAssemblyReference.cache
+D:\Project\VisualStudio開發專案\DesignPatternDemo\SingleFactory\obj\Debug\SingleFactory.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\SingleFactory\obj\Debug\SingleFactory.pdb

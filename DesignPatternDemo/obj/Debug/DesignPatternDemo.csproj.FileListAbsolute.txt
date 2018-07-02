@@ -1,0 +1,1 @@
+D:\Project\VisualStudio開發專案\DesignPatternDemo\DesignPatternDemo\bin\Debug\DesignPatternDemo.exe.config
