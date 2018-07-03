@@ -1,0 +1,6 @@
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Decorator2\bin\Debug\Decorator2.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Decorator2\bin\Debug\Decorator2.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Decorator2\bin\Debug\Decorator2.pdb
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Decorator2\obj\Debug\Decorator2.csprojResolveAssemblyReference.cache
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Decorator2\obj\Debug\Decorator2.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Decorator2\obj\Debug\Decorator2.pdb

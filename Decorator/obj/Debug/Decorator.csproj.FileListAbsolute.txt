@@ -1,0 +1,5 @@
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Decorator\bin\Debug\Decorator.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Decorator\bin\Debug\Decorator.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Decorator\bin\Debug\Decorator.pdb
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Decorator\obj\Debug\Decorator.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Decorator\obj\Debug\Decorator.pdb

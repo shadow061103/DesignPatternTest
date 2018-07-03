@@ -1,0 +1,5 @@
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Factory2\bin\Debug\Factory2.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Factory2\bin\Debug\Factory2.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Factory2\bin\Debug\Factory2.pdb
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Factory2\obj\Debug\Factory2.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Factory2\obj\Debug\Factory2.pdb

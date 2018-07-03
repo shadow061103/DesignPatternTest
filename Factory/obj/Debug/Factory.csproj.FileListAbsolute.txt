@@ -1,0 +1,6 @@
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Factory\bin\Debug\Factory.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Factory\bin\Debug\Factory.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Factory\bin\Debug\Factory.pdb
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Factory\obj\Debug\Factory.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Factory\obj\Debug\Factory.pdb
