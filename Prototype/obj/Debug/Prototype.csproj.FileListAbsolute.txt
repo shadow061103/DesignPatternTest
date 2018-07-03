@@ -1,0 +1,6 @@
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Prototype\bin\Debug\Prototype.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Prototype\bin\Debug\Prototype.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Prototype\bin\Debug\Prototype.pdb
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Prototype\obj\Debug\Prototype.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Prototype\obj\Debug\Prototype.pdb
