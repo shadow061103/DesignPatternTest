@@ -15,7 +15,7 @@ namespace SingleFactory
             oper = OperationFactory.createOperation("+");
             oper.NumberA = 1;
             oper.NumberB = 2;
-            double result = oper.GetResult();
+            double result = oper.GetResult();//多型 父類別叫用子類別方法
             Console.WriteLine(result);
             Console.ReadKey();
         }
