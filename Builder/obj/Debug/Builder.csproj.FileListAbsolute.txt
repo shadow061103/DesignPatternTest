@@ -1,0 +1,6 @@
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Builder\bin\Debug\Builder.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Builder\bin\Debug\Builder.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Builder\bin\Debug\Builder.pdb
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Builder\obj\Debug\Builder.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Builder\obj\Debug\Builder.pdb
