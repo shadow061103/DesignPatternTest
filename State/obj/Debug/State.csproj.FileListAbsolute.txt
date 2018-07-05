@@ -1,0 +1,6 @@
+D:\Project\VisualStudio開發專案\DesignPatternDemo\State\bin\Debug\State.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternDemo\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+D:\Project\VisualStudio開發專案\DesignPatternDemo\State\bin\Debug\State.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\State\bin\Debug\State.pdb
+D:\Project\VisualStudio開發專案\DesignPatternDemo\State\obj\Debug\State.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\State\obj\Debug\State.pdb
