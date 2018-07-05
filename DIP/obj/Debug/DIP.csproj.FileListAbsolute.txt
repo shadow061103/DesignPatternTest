@@ -1,0 +1,6 @@
+D:\Project\VisualStudio開發專案\DesignPatternDemo\DIP\obj\Debug\DIP.csprojResolveAssemblyReference.cache
+D:\Project\VisualStudio開發專案\DesignPatternDemo\DIP\bin\Debug\DIP.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternDemo\DIP\bin\Debug\DIP.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\DIP\bin\Debug\DIP.pdb
+D:\Project\VisualStudio開發專案\DesignPatternDemo\DIP\obj\Debug\DIP.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\DIP\obj\Debug\DIP.pdb

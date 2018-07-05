@@ -1,0 +1,6 @@
+D:\Project\VisualStudio開發專案\DesignPatternDemo\SRP\bin\Debug\SRP.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternDemo\SRP\bin\Debug\SRP.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\SRP\bin\Debug\SRP.pdb
+D:\Project\VisualStudio開發專案\DesignPatternDemo\SRP\obj\Debug\SRP.csprojResolveAssemblyReference.cache
+D:\Project\VisualStudio開發專案\DesignPatternDemo\SRP\obj\Debug\SRP.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\SRP\obj\Debug\SRP.pdb

@@ -1,0 +1,6 @@
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Observer2\bin\Debug\Observer2.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Observer2\bin\Debug\Observer2.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Observer2\bin\Debug\Observer2.pdb
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Observer2\obj\Debug\Observer2.csprojResolveAssemblyReference.cache
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Observer2\obj\Debug\Observer2.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Observer2\obj\Debug\Observer2.pdb

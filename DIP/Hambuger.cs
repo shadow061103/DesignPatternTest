@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DIP
 {
-    class Hanbuger : Stuffer
+    class Hambuger : Stuffer
     {
         public void Stuff()
         {

@@ -10,6 +10,7 @@ namespace Factory
     {
         static void Main(string[] args)
         {
+            
             IFactory factory = new AddFactory();
             Operation oper = factory.CreateOperation();
             oper.NumberA = 1;

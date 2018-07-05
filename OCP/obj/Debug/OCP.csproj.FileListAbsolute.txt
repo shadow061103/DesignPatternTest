@@ -1,0 +1,6 @@
+D:\Project\VisualStudio開發專案\DesignPatternDemo\OCP\bin\Debug\OCP.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternDemo\OCP\bin\Debug\OCP.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\OCP\bin\Debug\OCP.pdb
+D:\Project\VisualStudio開發專案\DesignPatternDemo\OCP\obj\Debug\OCP.csprojResolveAssemblyReference.cache
+D:\Project\VisualStudio開發專案\DesignPatternDemo\OCP\obj\Debug\OCP.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\OCP\obj\Debug\OCP.pdb

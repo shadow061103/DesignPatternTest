@@ -1,0 +1,5 @@
+D:\Project\VisualStudio開發專案\DesignPatternDemo\LoD\bin\Debug\LoD.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternDemo\LoD\bin\Debug\LoD.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\LoD\bin\Debug\LoD.pdb
+D:\Project\VisualStudio開發專案\DesignPatternDemo\LoD\obj\Debug\LoD.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\LoD\obj\Debug\LoD.pdb
