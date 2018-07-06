@@ -1,0 +1,6 @@
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Memento\bin\Debug\Memento.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Memento\bin\Debug\Memento.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Memento\bin\Debug\Memento.pdb
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Memento\obj\Debug\Memento.csprojResolveAssemblyReference.cache
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Memento\obj\Debug\Memento.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Memento\obj\Debug\Memento.pdb

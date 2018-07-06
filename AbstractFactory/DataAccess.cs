@@ -10,7 +10,7 @@ namespace AbstractFactory
     class DataAccess
     {
 
-        private static readonly string AssemblyName = "AbstractFactory";
+        private static readonly string AssemblyName = "AbstractFactory";//組件名稱
         private static readonly string db = "Sqlserver";//資料庫名稱 可換成Access 這段可放在config
                                                      
 

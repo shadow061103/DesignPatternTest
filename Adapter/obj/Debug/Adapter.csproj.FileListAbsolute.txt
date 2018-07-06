@@ -1,0 +1,6 @@
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Adapter\bin\Debug\Adapter.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Adapter\bin\Debug\Adapter.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Adapter\bin\Debug\Adapter.pdb
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Adapter\obj\Debug\Adapter.exe
+D:\Project\VisualStudio開發專案\DesignPatternDemo\Adapter\obj\Debug\Adapter.pdb
