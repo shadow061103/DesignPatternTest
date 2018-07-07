@@ -4,3 +4,6 @@ D:\Project\VisualStudio開發專案\DesignPatternDemo\Singleton\bin\Debug\Single
 D:\Project\VisualStudio開發專案\DesignPatternDemo\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
 D:\Project\VisualStudio開發專案\DesignPatternDemo\Singleton\obj\Debug\Singleton.exe
 D:\Project\VisualStudio開發專案\DesignPatternDemo\Singleton\obj\Debug\Singleton.pdb
+D:\VisualStudio開發專案\DesignPatternTest\Singleton\bin\Debug\Singleton.exe.config
+D:\VisualStudio開發專案\DesignPatternTest\Singleton\obj\Debug\Singleton.exe
+D:\VisualStudio開發專案\DesignPatternTest\Singleton\obj\Debug\Singleton.pdb
