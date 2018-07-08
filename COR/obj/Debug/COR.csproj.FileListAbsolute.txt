@@ -1,0 +1,6 @@
+D:\VisualStudio開發專案\DesignPatternTest\COR\bin\Debug\COR.exe.config
+D:\VisualStudio開發專案\DesignPatternTest\COR\bin\Debug\COR.exe
+D:\VisualStudio開發專案\DesignPatternTest\COR\bin\Debug\COR.pdb
+D:\VisualStudio開發專案\DesignPatternTest\COR\obj\Debug\COR.csprojResolveAssemblyReference.cache
+D:\VisualStudio開發專案\DesignPatternTest\COR\obj\Debug\COR.exe
+D:\VisualStudio開發專案\DesignPatternTest\COR\obj\Debug\COR.pdb

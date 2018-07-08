@@ -1,0 +1,6 @@
+D:\VisualStudio開發專案\DesignPatternTest\ChainonRepository\bin\Debug\ChainonRepository.exe.config
+D:\VisualStudio開發專案\DesignPatternTest\ChainonRepository\bin\Debug\ChainonRepository.exe
+D:\VisualStudio開發專案\DesignPatternTest\ChainonRepository\bin\Debug\ChainonRepository.pdb
+D:\VisualStudio開發專案\DesignPatternTest\ChainonRepository\obj\Debug\ChainonRepository.csprojResolveAssemblyReference.cache
+D:\VisualStudio開發專案\DesignPatternTest\ChainonRepository\obj\Debug\ChainonRepository.exe
+D:\VisualStudio開發專案\DesignPatternTest\ChainonRepository\obj\Debug\ChainonRepository.pdb

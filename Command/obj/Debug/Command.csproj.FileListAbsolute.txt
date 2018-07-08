@@ -1,0 +1,6 @@
+D:\VisualStudio開發專案\DesignPatternTest\Command\bin\Debug\Command.exe.config
+D:\VisualStudio開發專案\DesignPatternTest\Command\bin\Debug\Command.exe
+D:\VisualStudio開發專案\DesignPatternTest\Command\bin\Debug\Command.pdb
+D:\VisualStudio開發專案\DesignPatternTest\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+D:\VisualStudio開發專案\DesignPatternTest\Command\obj\Debug\Command.exe
+D:\VisualStudio開發專案\DesignPatternTest\Command\obj\Debug\Command.pdb
