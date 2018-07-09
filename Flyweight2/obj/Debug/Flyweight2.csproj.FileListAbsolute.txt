@@ -1,0 +1,5 @@
+D:\Project\VisualStudio開發專案\DesignPatternTest\Flyweight2\bin\Debug\Flyweight2.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternTest\Flyweight2\bin\Debug\Flyweight2.exe
+D:\Project\VisualStudio開發專案\DesignPatternTest\Flyweight2\bin\Debug\Flyweight2.pdb
+D:\Project\VisualStudio開發專案\DesignPatternTest\Flyweight2\obj\Debug\Flyweight2.exe
+D:\Project\VisualStudio開發專案\DesignPatternTest\Flyweight2\obj\Debug\Flyweight2.pdb

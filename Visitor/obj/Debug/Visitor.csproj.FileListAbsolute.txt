@@ -1,0 +1,6 @@
+D:\Project\VisualStudio開發專案\DesignPatternTest\Visitor\bin\Debug\Visitor.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternTest\Visitor\bin\Debug\Visitor.exe
+D:\Project\VisualStudio開發專案\DesignPatternTest\Visitor\bin\Debug\Visitor.pdb
+D:\Project\VisualStudio開發專案\DesignPatternTest\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+D:\Project\VisualStudio開發專案\DesignPatternTest\Visitor\obj\Debug\Visitor.exe
+D:\Project\VisualStudio開發專案\DesignPatternTest\Visitor\obj\Debug\Visitor.pdb

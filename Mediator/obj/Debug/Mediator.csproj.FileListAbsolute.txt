@@ -1,0 +1,6 @@
+D:\Project\VisualStudio開發專案\DesignPatternTest\Mediator\bin\Debug\Mediator.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternTest\Mediator\bin\Debug\Mediator.exe
+D:\Project\VisualStudio開發專案\DesignPatternTest\Mediator\bin\Debug\Mediator.pdb
+D:\Project\VisualStudio開發專案\DesignPatternTest\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+D:\Project\VisualStudio開發專案\DesignPatternTest\Mediator\obj\Debug\Mediator.exe
+D:\Project\VisualStudio開發專案\DesignPatternTest\Mediator\obj\Debug\Mediator.pdb

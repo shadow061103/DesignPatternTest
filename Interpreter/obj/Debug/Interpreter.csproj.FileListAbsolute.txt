@@ -1,0 +1,6 @@
+D:\Project\VisualStudio開發專案\DesignPatternTest\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+D:\Project\VisualStudio開發專案\DesignPatternTest\Interpreter\bin\Debug\Interpreter.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternTest\Interpreter\bin\Debug\Interpreter.exe
+D:\Project\VisualStudio開發專案\DesignPatternTest\Interpreter\bin\Debug\Interpreter.pdb
+D:\Project\VisualStudio開發專案\DesignPatternTest\Interpreter\obj\Debug\Interpreter.exe
+D:\Project\VisualStudio開發專案\DesignPatternTest\Interpreter\obj\Debug\Interpreter.pdb
