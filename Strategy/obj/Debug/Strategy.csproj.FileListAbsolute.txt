@@ -4,3 +4,9 @@ D:\Project\VisualStudio開發專案\DesignPatternDemo\Strategy\bin\Debug\Strateg
 D:\Project\VisualStudio開發專案\DesignPatternDemo\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
 D:\Project\VisualStudio開發專案\DesignPatternDemo\Strategy\obj\Debug\Strategy.exe
 D:\Project\VisualStudio開發專案\DesignPatternDemo\Strategy\obj\Debug\Strategy.pdb
+D:\Project\VisualStudio開發專案\DesignPatternTest\Strategy\bin\Debug\Strategy.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternTest\Strategy\obj\Debug\Strategy.exe
+D:\Project\VisualStudio開發專案\DesignPatternTest\Strategy\obj\Debug\Strategy.pdb
+D:\Project\VisualStudio開發專案\DesignPatternTest\Strategy\bin\Debug\Strategy.exe
+D:\Project\VisualStudio開發專案\DesignPatternTest\Strategy\bin\Debug\Strategy.pdb
+D:\Project\VisualStudio開發專案\DesignPatternTest\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache

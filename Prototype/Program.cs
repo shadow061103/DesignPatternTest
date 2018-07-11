@@ -18,7 +18,7 @@ namespace Prototype
             b.sexWorkExperience("1998-2006", "YMCA");
 
             Resume c= (Resume)a.Clone();
-            a.setPersonalInfo("男", "23");
+            c.setPersonalInfo("男", "23");
             a.Display();
             b.Display();
             c.Display();

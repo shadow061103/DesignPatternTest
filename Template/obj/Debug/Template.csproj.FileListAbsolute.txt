@@ -4,3 +4,9 @@ D:\Project\VisualStudio開發專案\DesignPatternDemo\Template\bin\Debug\Templat
 D:\Project\VisualStudio開發專案\DesignPatternDemo\Template\obj\Debug\Template.csprojResolveAssemblyReference.cache
 D:\Project\VisualStudio開發專案\DesignPatternDemo\Template\obj\Debug\Template.exe
 D:\Project\VisualStudio開發專案\DesignPatternDemo\Template\obj\Debug\Template.pdb
+D:\Project\VisualStudio開發專案\DesignPatternTest\Template\bin\Debug\Template.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternTest\Template\obj\Debug\Template.exe
+D:\Project\VisualStudio開發專案\DesignPatternTest\Template\obj\Debug\Template.pdb
+D:\Project\VisualStudio開發專案\DesignPatternTest\Template\bin\Debug\Template.exe
+D:\Project\VisualStudio開發專案\DesignPatternTest\Template\bin\Debug\Template.pdb
+D:\Project\VisualStudio開發專案\DesignPatternTest\Template\obj\Debug\Template.csprojResolveAssemblyReference.cache

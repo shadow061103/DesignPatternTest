@@ -4,3 +4,9 @@ D:\Project\VisualStudio開發專案\DesignPatternDemo\Composite\bin\Debug\Compos
 D:\Project\VisualStudio開發專案\DesignPatternDemo\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
 D:\Project\VisualStudio開發專案\DesignPatternDemo\Composite\obj\Debug\Composite.exe
 D:\Project\VisualStudio開發專案\DesignPatternDemo\Composite\obj\Debug\Composite.pdb
+D:\Project\VisualStudio開發專案\DesignPatternTest\Composite\bin\Debug\Composite.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternTest\Composite\obj\Debug\Composite.exe
+D:\Project\VisualStudio開發專案\DesignPatternTest\Composite\obj\Debug\Composite.pdb
+D:\Project\VisualStudio開發專案\DesignPatternTest\Composite\bin\Debug\Composite.exe
+D:\Project\VisualStudio開發專案\DesignPatternTest\Composite\bin\Debug\Composite.pdb
+D:\Project\VisualStudio開發專案\DesignPatternTest\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache

@@ -10,6 +10,9 @@ namespace DIP
     {
         static void Main(string[] args)
         {
+            People p = new People();
+            p.eat();
+            Console.ReadKey();
         }
     }
 }

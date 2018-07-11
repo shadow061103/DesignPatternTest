@@ -22,7 +22,7 @@ namespace Strategy
             CashContext cc = null;
             cc = new CashContext("打8折");
              totalprice = 0d;
-            totalprice = cc.GetResult(5000)*5;
+            totalprice = cc.GetResult(5000)*5; //單價X數量
             total += totalprice;
             Console.WriteLine(total);
 

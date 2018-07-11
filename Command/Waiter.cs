@@ -12,6 +12,7 @@ namespace Command
         //設定訂單
         public void SetOrder(Command command)
         {
+            //接收請求的一方可以決定是否要否決
             if (command.ToString() == "Command.BakeChickenWingCommand")
                 Console.WriteLine("服務生:雞翅沒有了，請點別的燒烤");
             else

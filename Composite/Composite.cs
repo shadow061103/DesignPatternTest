@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Composite
 {
-    class Composite : Component
+    class Composite : Component//枝節點
     {
         private IList<Component> children = new List<Component>();
         public Composite(string name) : base(name)

@@ -8,6 +8,7 @@ namespace Memento
 {
     class GameRole
     {
+         //因為單一職責原則 所以另外建一個類別來記錄物件的狀態(屬性)
         private int vit;
         private int atk;
         private int def;

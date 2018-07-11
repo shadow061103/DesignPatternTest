@@ -10,7 +10,7 @@ namespace DIP
     {
         public void Stuff()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("吃漢堡");
         }
     }
 }

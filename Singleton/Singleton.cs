@@ -11,7 +11,7 @@ namespace Singleton
         //第一次被參考才會實體化 懶漢式
         private static Singleton instance;
         private static readonly object syncRoot = new object();
-        private Singleton() { }
+        private Singleton() { } //私有的 不能被new
         public static Singleton GetInstance()
         {
             if (instance == null)//沒建立過實體才要鎖

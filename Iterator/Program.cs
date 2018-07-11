@@ -18,6 +18,8 @@ namespace Iterator
             a[4] = "小白";
             a[4] = "小偷";
 
+            List<string> aa = new List<string>();
+
             Iterator i = new ConcreteIterator(a);
             object item = i.First();
             while (!i.IsDone())

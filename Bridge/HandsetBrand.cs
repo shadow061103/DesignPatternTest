@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Bridge
 {
-    abstract class HandsetBrand
+    abstract class HandsetBrand //手機品牌
     {
         protected HadnsetSoft soft;
         public void SetHandsetSoft(HadnsetSoft soft)

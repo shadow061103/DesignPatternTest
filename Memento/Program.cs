@@ -9,7 +9,10 @@ namespace Memento
     class Program
     {
         static void Main(string[] args)
-        {
+        {//儲存物件的重要狀態
+            //維護物件的封裝
+
+
             Console.WriteLine("大戰boss前 初始狀態");
            
             GameRole role = new GameRole();

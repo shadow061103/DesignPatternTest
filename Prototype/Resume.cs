@@ -40,7 +40,7 @@ namespace Prototype
         }
         public object Clone()
         {
-            Resume obj = new Resume(this.work);
+            Resume obj = new Resume(this.work); //複製物件參考 建一個新的物件
             obj.name = this.name;
             obj.sex = this.sex;
             obj.age = this.age;

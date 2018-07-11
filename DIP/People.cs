@@ -11,7 +11,7 @@ namespace DIP
         private Stuffer stuffer;
         public People()
         {
-            stuffer = new Hambuger();//依賴抽象
+            this.stuffer =new Hambuger();//依賴抽象
         }
         public void eat()
         {//填飽肚子

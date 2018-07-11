@@ -4,3 +4,9 @@ D:\VisualStudio開發專案\DesignPatternTest\Bridge\bin\Debug\Bridge.pdb
 D:\VisualStudio開發專案\DesignPatternTest\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
 D:\VisualStudio開發專案\DesignPatternTest\Bridge\obj\Debug\Bridge.exe
 D:\VisualStudio開發專案\DesignPatternTest\Bridge\obj\Debug\Bridge.pdb
+D:\Project\VisualStudio開發專案\DesignPatternTest\Bridge\bin\Debug\Bridge.exe.config
+D:\Project\VisualStudio開發專案\DesignPatternTest\Bridge\bin\Debug\Bridge.exe
+D:\Project\VisualStudio開發專案\DesignPatternTest\Bridge\bin\Debug\Bridge.pdb
+D:\Project\VisualStudio開發專案\DesignPatternTest\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+D:\Project\VisualStudio開發專案\DesignPatternTest\Bridge\obj\Debug\Bridge.exe
+D:\Project\VisualStudio開發專案\DesignPatternTest\Bridge\obj\Debug\Bridge.pdb
